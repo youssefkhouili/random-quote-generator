@@ -73,6 +73,13 @@ button:active {
 .hidden {
     display: none ;
 }
+.credit {
+    color: #f5f5f5;
+    font-size: 1.75rem;
+}
+.credit a{
+    text-decoration: none;
+}
 /* Loader */
 .lds-ripple {
   display: inline-block;
